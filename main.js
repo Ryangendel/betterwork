@@ -14,10 +14,11 @@ var funksion = function(){
     for (var i =0;i>8;i++){
         console.log("hello")
     }
-    var bikerGang="westSide"
-    var truckGang="eastSide"
-    var planeGang="upSide"
-    var trainGang="downSide"
+    obj1={
+        poo,
+        please,
+        hacking
+    }
     var chopstick="your"
     var fork="master"
     var spoon="spoon"
