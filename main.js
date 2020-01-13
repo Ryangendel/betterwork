@@ -3,12 +3,10 @@ var funksion = function(){
     var poo=1+1
     var please="WORK!"
     var hacking="hello git"
-<<<<<<< HEAD
     var code="more code"
     var pp ="i am coding"
     var me="love coding"
     var hello="hello"
-=======
     var kale="obey"
     var bikerGang="westSide"
     var truckGang="eastSide"
@@ -17,5 +15,5 @@ var funksion = function(){
     var chopstick="your"
     var fork="master"
     var spoon="spoon"
->>>>>>> f518bf029ab9c7e2a6db4157ebbd6cbbbefebc5f
+
 }
