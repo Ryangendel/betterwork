@@ -21,5 +21,7 @@ var funksion = function(){
     var chopstick="your"
     var fork="master"
     var spoon="spoon"
-
+    var electric="acdc"
+    var drive="highway to hell"
+    var concert="rockrollalldaybabyyy"
 }
