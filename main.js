@@ -7,4 +7,11 @@ var funksion = function(){
     var pp ="i am coding"
     var me="love coding"
     var hello="hello"
+    var kale="obey"
+    var chopstick="your"
+    var fork="master"
+    var spoon="spoon"
+    for (var i =0;i>8;i++){
+        console.log("hello")
+    }
 }
